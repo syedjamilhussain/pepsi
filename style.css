@@ -1,0 +1,38 @@
+
+body {
+    background: rgb(63, 63, 189);
+}
+
+.cantainer {
+    /* background-color: rgb(29, 85, 170); */
+    /* width: 100%; */
+    /* height: 100%; */
+    display: flex;
+    margin-top: 10px;
+}
+.left {
+    
+    width: 30%;
+    padding-right: 30px;
+    /* margin-right: 70px; */
+    padding-left: 15px;
+}
+.box1 {
+    background-color: rgb(28, 11, 179);
+
+}
+.box2 {
+    background-color:  rgb(28, 11, 179);
+
+}
+.right {
+    /* background-color: rgb(75, 104, 196); */
+    width: 70%;
+}
+ p {
+    font-size: 22px;
+    text-align: center;
+    padding-bottom:10px ;
+    font-family: sans-serif;
+    color: white;
+ }
